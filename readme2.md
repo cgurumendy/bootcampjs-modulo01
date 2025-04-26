@@ -20,7 +20,7 @@
 <img src="./img/Modulo 01-Paso 3 (2).png">
 
 - Realizo commit con mensaje descriptivo.
-<img src="../bootcampjs-modulo01/img/Modulo 01-Paso 3 (3).png"">
+<img src="./img/Modulo 01-Paso 3 (3).png">
 
 - Hago un push para subir los cambios al repositorio en GitHub.
 <img src="./img/Modulo 01-Paso 3 (4).png">
